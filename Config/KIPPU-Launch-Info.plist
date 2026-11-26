@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>MinecraftMicrosoftClientID</key>
+    <string>$(KIPPU_MICROSOFT_CLIENT_ID)</string>
+    <key>ProjectRepositoryURL</key>
+    <string>https://github.com/KIPPUDESU/KIPPU_Launch</string>
+    <key>AuthorGitHubURL</key>
+    <string>https://github.com/KIPPUDESU</string>
+    <key>CommunityDiscordURL</key>
+    <string></string>
+    <key>CommunityTelegramURL</key>
+    <string></string>
+</dict>
+</plist>
